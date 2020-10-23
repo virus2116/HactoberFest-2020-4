@@ -4,21 +4,21 @@
 # To make a pull request follow these steps: <br/>
 ## Step 1. [Go to hactoberfest](https://hacktoberfest.digitalocean.com) <br/>
 ---
-#### click on **Start Hacking**  <br/>
+#### Click on **Start Hacking**  <br/>
 >   Login in using your GitHub account <br/> 
 >   If you don't have then create one <br/>
-## Step 2. Make **4 Pull Request** <br/>
+## Step 2. Make **4 Pull Requests** <br/>
 ___
 # ⚡⚡ Steps for Creating First Pull request ⚡⚡ <br/>
 ---
 * [Go to this Repo](https://github.com/DPrinceKumar/HactoberFest2020.git) <br/>
 * Click on Fork in top Right Corner <br/>
 ![Go to hactoberfest](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png) <br/>
-* Now that Repository will be added in **your GitGub Repository** <br/>
+* Now that repository will be added in **your GitGub Repository** <br/>
 * Make **some changes** in one file by Opening File <br/>
 * After opening file Click on **pen icon**  <br/>
 ![](https://docs.github.com/assets/images/help/repository/edit-file-edit-button.png) <br/>
-* After editing done click on **Commit changes** **"Provide a sutable name.."** <br/>
+* After editing is done click on **Commit changes** **"Provide a sutable name.."** <br/>
 * Click on pull request **below your name**  <br/>
 <img src="https://i.ibb.co/428Z5ry/Pull-Request-in-github.png" alt="Pull-Request-in-github" border="0"></a>  <br/>
 * Now click on **New pull request**   <br/>
@@ -26,4 +26,4 @@ ___
 * Next click **create new pull requestion**  <br/>
 <img src="https://i.ibb.co/DVjgKQG/Screenshot-2020-10-01-at-11-06-03-AM.png" alt="Screenshot-2020-10-01-at-11-06-03-AM" border="0"></a>  <br/>
   <br/>
-## Repeat Same step 4 time and check your hactober profile  <br/>
+## Repeat the same step 4 times and check your <a href="https://hacktoberfest.digitalocean.com/profile">hacktober profile </a> <br/>
