@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="helpline.css">
+    <style>
+        ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2e010b;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+        </style>
+</head>
+<body>
+    <ul>
+        <li><a ></a>help</a></li>
+        <li><a >us</a></li>
+        <li><a >to help</a></li>
+        <li><a >others</a></li>
+      </ul>
+      
+    <section>
+        <div class = "image3">
+            <!-- image here -->
+        </div>
+    
+        <div class = "content">
+            <h2>About Us</h2>
+            <span><!-- line here --></span>
+    
+            <p>This is a helpline website which addresses various problems and is created with cause to help the needy.</p>
+    
+          
+        </div>
+    </section>
+<div id="aw">
+    <div class="container">
+        <div class="s-heading">
+          <h1>Donate <font color="grey">for a </font>Cause</h1>
+        <div class="row">
+      <div class="image1">
+        <img src="edu.jpg" alt="">
+        <div class="details">
+          <h2> Edu<span>cation</span></h2>
+          
+          <div class="more">
+            <a href="#" class="read-more">Do<span>nate</span></a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="image1">
+        <img src="san.jpg" alt="">
+        <div class="details">
+          <h2> Sani<span>tation</span></h2>
+          
+          <div class="more">
+            <a href="#" class="read-more">Do<span>nate</span></a>
+           
+          </div>
+        </div>
+      </div>
+      <div class="image1">
+        <img src="mh.jpg" alt="">
+        <div class="details">
+          <h2>Medical <span>help</span></h2>
+         
+          <div class="more">
+            <a href="#" class="read-more">Do<span>nate</span></a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="aw">
+    <div class="container">
+        <div class="s-heading">
+          
+        <div class="row">
+      <div class="image1">
+        <img src="we.jpg" alt="">
+        <div class="details">
+          <h2> Women <span>Empowerment</span></h2>
+          
+          <div class="more">
+            <a href="#" class="read-more">Do<span>nate</span></a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="image1">
+        <img src="fb.jpg" alt="">
+        <div class="details">
+          <h2> Food<span> bank</span></h2>
+          
+          <div class="more">
+            <a href="#" class="read-more">Do<span>nate</span></a>
+           
+          </div>
+        </div>
+      </div>
+      <div class="image1">
+        <img src="ec.jpg" alt="">
+        <div class="details">
+          <h2>Environment <span>Conservation</span></h2>
+          
+          <div class="more">
+            <a href="#" class="read-more">Do<span>nate</span></a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+    <footer>
+        <div class="footer-container">
+          <div class="left-col">
+            <img src="" alt="" class="logo">
+            <div class="social-media">
+              <a href="#/"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-youtube"></i></a>
+              <a href="#"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+            
+          </div>
+      
+          <div class="right-col">
+            <h1>Contact Us</h1>
+            <div class="border"></div>
+           <p><i class="fa fa-map-marker" aria-hidden="true"></i> </p>
+           <p><i class="fa fa-phone" aria-hidden="true"></i> </p>
+           <p><i class="fa fa-envelope fa-1x" aria-hidden="true"></i> </p>
+            <p>Enter Your Email to get our news and updates.</p>
+            <form action="" class="newsletter-form">
+              <input type="text" class="txtb" placeholder="Enter Your Email">
+              <input type="submit" class="btn" value="submit">
+            </form>
+          </div>
+        </div>
+      </footer>
+</body>
+</html>
