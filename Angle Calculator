@@ -1,0 +1,24 @@
+#include<iostream>
+#include<iomanip>
+#include<cmath>
+using namespace std;
+int main()
+{
+double angle, sine, cosine, tangent;
+//programology.......
+cout << "\n----------------------------\n"
+<< " Angle Calculator"
+cout << "Enter an angle (in radians): ";
+cin >> angle;
+
+sine = sin(angle);
+cosine = cos(angle);
+tangent = tan(angle);
+cout << setprecision(4) << fixed;
+cout << "The sine is: " << sine << endl;
+cout << "The cosine is: " << cosine << endl;
+cout << "The tangent is: " << tangent << "\n\n";
+system("pause");
+return 0;
+}
+Program by virus2116
