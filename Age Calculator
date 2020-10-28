@@ -1,0 +1,8 @@
+Bot.send("Please enter your birth year?");
+async function respond(inputText){
+var today = new Date();
+var userage = today.getFullYear() - Number(inputText);
+
+Bot.send("Your current age is "+ userage);
+}
+Program by Virus2116
